@@ -1,0 +1,6 @@
+1. Hello guys,
+2. in these project i am making a emotion detecot using cnn model and predicting single result.
+3. convolution_neural_network2.ipynb is hte main file.
+4. for the training data and test data, you can go the braches section and click the master branch and you will get the dataset
+5. the datas are in teh form of images.
+6. enjoy codeing!!!
